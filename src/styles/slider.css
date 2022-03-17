@@ -1,0 +1,7 @@
+.slider {
+  width: 10em;
+}
+
+.slider label:not(.disabled) {
+  cursor: pointer;
+}
