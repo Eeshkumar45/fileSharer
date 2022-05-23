@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="messagePassing:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/messagePassing_jar</output-path>
-    <root id="archive" name="messagePassing.jar">
-      <element id="module-output" name="messagePassing" />
-    </root>
-  </artifact>
-</component>
